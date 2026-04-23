@@ -1,6 +1,7 @@
 ---
 layout: single
 title: What the Analytics Don't Show
+permalink: /what-the-analytics-dont-show/
 ---
 # What the Analytics Don't Show
 
