@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Medallion Architecture
+permalink: /medallion-architecture/
 ---
 # Medallion Architecture in Our Data Flow
 
