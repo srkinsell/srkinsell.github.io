@@ -1,6 +1,7 @@
 ---
 layout: single
 title: One Bad Error Messsage
+permalink: /one-bad-error-message/
 ---
 # One Bad Error Message
 
