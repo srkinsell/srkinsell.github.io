@@ -11,7 +11,7 @@ I lead technical programs that turn complex, distributed systems into scalable, 
 
 ## Portfolio
 
-[View Portfolio](/portfolio/)
+[View Portfolio](/work-portfolio/)
 
 ## Focus
 
