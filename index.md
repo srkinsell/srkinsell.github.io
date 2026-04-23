@@ -1,3 +1,8 @@
+---
+layout: single
+title: Sean Kinsell
+---
+
 # Sean Kinsell
 
 Technical Program Manager | Globalization, Systems, and Data
