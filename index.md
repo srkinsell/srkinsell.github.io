@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Sean Kinsell
+title: Home
 ---
 
 # Sean Kinsell
