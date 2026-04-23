@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Optimizing Products for Localization
+permalink: /optimizing-products-for-localization/
 ---
 # Optimizing Products for Localization
 
