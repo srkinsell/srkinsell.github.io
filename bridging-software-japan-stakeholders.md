@@ -5,11 +5,11 @@ description: "Originally presented at Vistatec pre-session, LocWorld 38"
 permalink: /bridging-software-japan-stakeholders/
 ---
 
-*Adapted from a talk I gave at Vistatec's invitation at LocWorld 38. I've left these in speaker-note form, as I actually used them.
+*Adapted from a talk I gave at Vistatec's invitation at LocWorld 38. I've left these in speaker-note form, as I actually used them.*
 
-If Japanese is one of your target locales, you probably recognize most of the frictions below. My audience was localization program managers, so I spoke from their point of view and focused on what they can do. But I’ve been a Japan-based customer myself; I’ve also experienced the same frictions from the other direction.
+*If Japanese is one of your target locales, you probably recognize most of the frictions below. My audience was localization program managers, so I spoke from their point of view and focused on what they can do. But I’ve been a Japan-based customer myself; I’ve also experienced the same frictions from the other direction.*
 
-So this piece shares what I've learned working across these dynamics from both sides, and offers practical steps you can take right now as a loc manager. Many of these points are helpful for any language pair, though I’m discussing them specifically in the context of Japan.*
+*So this piece shares what I've learned working across these dynamics from both sides, and offers practical steps you can take right now as a loc manager. Many of these points are helpful for any language pair, though I’m discussing them specifically in the context of Japan.*
 
 ---
 
