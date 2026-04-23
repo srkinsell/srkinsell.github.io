@@ -1,3 +1,7 @@
+---
+layout: single
+title: Optimizing Products for Localization
+---
 # Optimizing Products for Localization
 
 *This guide was written for product and engineering teams at a clinical SaaS company during a major expansion of the global localization program. It was distributed internally to build shared understanding of where localization fits in the SDLC and what upstream decisions most affect downstream outcomes.*
