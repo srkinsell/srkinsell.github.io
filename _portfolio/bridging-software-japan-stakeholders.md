@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Bridging Software Development Teams and Japanese Stakeholders"
-description: "Originally presented at Vistatec pre-session, LocWorld 38"
 ---
 
 *Adapted from a talk I gave at Vistatec's invitation at LocWorld 38. I've left these in speaker-note form, as I actually used them.*
