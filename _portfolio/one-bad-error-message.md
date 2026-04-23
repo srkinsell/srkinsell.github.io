@@ -1,7 +1,6 @@
 ---
 layout: single
 title: One Bad Error Message
-permalink: /one-bad-error-message/
 ---
 
 *How a translator query uncovered a UX problem nobody else had caught*
