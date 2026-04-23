@@ -14,7 +14,7 @@ How I explained a core data architecture concept to non-technical, customer-faci
 ### [Optimizing Products for Localization](/optimizing-products-for-localization/)
 A guide I wrote for product and engineering teams, with real case studies showing what upstream localization failures actually cost and how to prevent them.
 
-### [Bridging Software Development Teams and Japanese Stakeholders](/bridging-software-japanese-stakeholders/)
+### [Bridging Software Development Teams and Japanese Stakeholders](/bridging-software-japan-stakeholders/)
 Adapted from a talk I gave for Vistatec at LocWorld 38. Practical steps for localization program managers navigating the friction points between agile product teams and Japanese customer-facing colleagues — from both sides of the table.
 
 ### [What the Analytics Don't Show](/what-the-analytics-dont-show/)
