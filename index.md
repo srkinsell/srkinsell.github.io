@@ -3,9 +3,7 @@ layout: single
 title: Home
 ---
 
-## Globalization, Systems, and Data
-
-I’m a Technical Program Manager focused on systems, data, and globalization.
+## Technical Program Manager | Globalization, Systems, and Data
 
 Most of my work is in the gaps between teams: where product decisions meet real-world constraints, where data models break down in practice, and where global requirements surface issues that don’t show up in a single market. I spend a lot of time translating between perspectives—engineering, product, and customer-facing teams—so that decisions hold up under real usage, not just in design.
 
