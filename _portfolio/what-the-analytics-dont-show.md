@@ -1,7 +1,6 @@
 ---
 layout: single
 title: What the Analytics Don't Show
-permalink: /what-the-analytics-dont-show/
 ---
 
 *How to fix systems that break down while scaling up*
