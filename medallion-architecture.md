@@ -1,9 +1,8 @@
 ---
 layout: single
-title: Medallion Architecture
+title: Medallion Architecture in Our Data Flow
 permalink: /medallion-architecture/
 ---
-# Medallion Architecture in Our Data Flow
 
 *This explainer was written for customer-facing teams at a wealth management SaaS company to demystify a technical concept that frequently came up in onboarding conversations with clients. The goal was to give non-engineers a working mental model they could use in the field — accurate enough to be credible, accessible enough to actually get read.*
 
