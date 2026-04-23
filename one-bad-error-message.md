@@ -1,9 +1,8 @@
 ---
 layout: single
-title: One Bad Error Messsage
+title: One Bad Error Message
 permalink: /one-bad-error-message/
 ---
-# One Bad Error Message
 
 *How a translator query uncovered a UX problem nobody else had caught*
 
