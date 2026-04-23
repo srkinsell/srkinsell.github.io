@@ -40,9 +40,6 @@ defaults:
       layout: single
       author_profile: false
 
-include:
-  - _pages
-
 exclude:
   - README.md
   - Gemfile
