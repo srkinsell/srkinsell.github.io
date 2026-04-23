@@ -1,3 +1,7 @@
+---
+layout: single
+title: What the Analytics Don't Show
+---
 # What the Analytics Don't Show
 
 *How to fix systems that break down while scaling up*
