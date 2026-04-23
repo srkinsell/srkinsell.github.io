@@ -4,18 +4,21 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-A lot of program management is explaining why your systems work the way they do and, by extension, what you're asking of your stakeholders.  These samples address some of the specific ways I've had to deal with risks, resolve conflicts, or get programs back on track so we could deliver.
+These samples come from real problems I've had to untangle as a program manager: miscommunications between global teams, infrastructure decisions with hidden downstream costs, and the small UX failures that compound quietly until they can't be ignored. They reflect how I actually think through these things, not just what got delivered.
 
 ## Writing Samples
 
 ### [Medallion Architecture](/medallion-architecture/)
-In plain-language, how the bronze/silver/gold layers make data more usable.
+How I explained a core data architecture concept to non-technical, customer-facing colleagues so they could use it confidently in the field.
 
 ### [Optimizing Products for Localization](/optimizing-products-for-localization/)
-How keeping global readiness in mind from the beginning of the SDLC actually makes things go faster, cheaper, and better (yes, all three).
+A guide I wrote for product and engineering teams, with real case studies showing what upstream localization failures actually cost and how to prevent them.
+
+### [Bridging Software Development Teams and Japanese Stakeholders](/bridging-software-japanese-stakeholders/)
+Adapted from a talk I gave for Vistatec at LocWorld 38. Practical steps for localization program managers navigating the friction points between agile product teams and Japanese customer-facing colleagues — from both sides of the table.
 
 ### [What the Analytics Don't Show](/what-the-analytics-dont-show/)
-I love metrics and used to make my own pivot tables and lookups all the time before off-the-shelf tools were as good as they are now.  But sometimes they don't tell you everything about UX or value.
+How I found the real failure points in a localization program that looked fine on paper, and rebuilt it so the metrics and the outcomes matched.
 
 ### [One Bad Error Message](/one-bad-error-message/)
-A focused example of how small UX and content decisions can balloon into confusion, support burden, and avoidable failure points.
+How a translator query caught a UX problem that had slipped past writing, engineering, and QA, and what it says about treating localization as a partner rather than a downstream function.
