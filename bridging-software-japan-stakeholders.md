@@ -132,3 +132,9 @@ If you’re looking for a quick-start path, I’d do these things first:
 ---
 
 Questions and comments welcome.
+
+
+# Contact
+[LinkedIn](https://www.linkedin.com/in/sean-kinsell/)
+
+[Email](mailto:skinsell@gmail.com)
