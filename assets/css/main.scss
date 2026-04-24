@@ -8,6 +8,10 @@ $footer-background-color: #f7f7f7;
 @import "minimal-mistakes";
 
 /* Make long-form writing easier to read */
+.body {
+  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+}
+
 .page__content {
   font-size: 14.5px;
   line-height: 1.8;
