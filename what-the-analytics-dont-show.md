@@ -80,3 +80,9 @@ Turnaround times became more predictable. Friction among product teams, regional
 What I learned was that adding capacity doesn't fix a system that isn't designed to surface its own problems. Vendors can absorb volume, but they can't compensate for unclear authority, fragmented inputs, or workflows that punish transparency. Those had been fine in a small in-house program with lots of close, informal communication. Our new, large-scale program needed a system designed to keep teams aligned, bring issues forward before they propagate, and retain the decisions it produces.
 
 When scaling breaks down, the first place to look for failure points is at the interfaces: between teams, between systems, and between processes. That's where assumptions go unexamined, handoffs lose information, and accountability quietly disappears. Fix the interfaces, and the rest often follows.
+
+
+# Contact
+[LinkedIn](https://www.linkedin.com/in/sean-kinsell/)
+
+[Email](mailto:skinsell@gmail.com)
