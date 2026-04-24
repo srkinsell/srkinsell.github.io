@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Home
+title: Technical Program Manager
 ---
 
-## Technical Program Manager | Globalization, Systems, and Data
+## Globalization, Systems, and Data
 
 Most of my work is in the gaps between teams: where product decisions meet real-world constraints, where data models break down in practice, and where global requirements surface issues that don’t show up in a single market. I spend a lot of time translating between perspectives—engineering, product, and customer-facing teams—so that decisions hold up under real usage, not just in design.
 
