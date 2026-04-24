@@ -38,3 +38,9 @@ In this case, the query from the CJK teams was the forcing function that brought
 The fix itself was straightforward. The two weeks it took to get there weren't wasted, exactly, but they were avoidable.
 
 We see again and again the cost of treating localization as a downstream function rather than as a partner throughout the SDLC. Localization catches problems late that could have been prevented early. The cost isn't just translation rework; it's the accumulated time of everyone pulled into the thread. Multiple exchanges of messages and a meeting on the fly represent a lot of people pausing to fuss over something that was supposed to be finished. But the translators didn't cause the trouble. They just identified and escalated it so it could be fixed. If localization-readiness criteria had required error messages to specify a trigger and a corrective action, the issue would have been prevented before the source string was even written.
+
+
+# Contact
+[LinkedIn](https://www.linkedin.com/in/sean-kinsell/)
+
+[Email](mailto:skinsell@gmail.com)
