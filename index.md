@@ -22,3 +22,7 @@ How I found the real failure points in a localization program that looked fine o
 
 ### [One Bad Error Message](/one-bad-error-message/)
 How a translator query caught a UX problem that had slipped past writing, engineering, and QA, and what it says about treating localization as a partner rather than a downstream function.
+
+# Contact
+[LinkedIn](https://www.linkedin.com/in/sean-kinsell/)
+[Email](mailto:skinsell@gmail.com)
