@@ -171,3 +171,9 @@ Providing environment access or wireframes at project kickoff eliminates the nee
 We're an agile company, and imperfections will surface in releases sometimes even if we follow all the rules for global readiness. Small post-release fixes only become large headaches when we don't plan for them on the spot. Customers hate the feeling that they've discovered an issue we weren't already aware of; it makes them wonder how good our QA and testing are. They also hate being told a bug is in limbo, on the backlog without a firm release date for the planned fix. What happens next is a long series of follow-ups that drag in Customer Support and Professional Services, with customers left feeling that we don't address their concerns unless they nag us.
 
 The key to avoiding this drama is to show that we're aware of problems and are doing something about them before we have to be asked. If a release must go ahead with a localization issue included, create a ticket in Jira immediately, and be sure the Tech Comm lead has added it to the Known Issues list. Enter a targeted fix date on the ticket, even if the product manager says it has to be a few release cycles in the future. Knowing a problem is scheduled to be fixed takes a lot of the sting out of it for customers (and for customer-facing colleagues).
+
+
+# Contact
+[LinkedIn](https://www.linkedin.com/in/sean-kinsell/)
+
+[Email](mailto:skinsell@gmail.com)
