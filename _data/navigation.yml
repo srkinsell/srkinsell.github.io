@@ -1,5 +1,3 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Portfolio"
     url: /work-portfolio/
