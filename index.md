@@ -1,6 +1,5 @@
 ---
 layout: single
-permalink: /work-portfolio/
 ---
 
 These samples come from real problems I've had to untangle as a program manager: miscommunications between global teams, infrastructure decisions with hidden downstream costs, and the small UX failures that compound quietly until they can't be ignored. They reflect how I actually think through these things, not just what got delivered.
