@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Portfolio"
 permalink: /work-portfolio/
 ---
 
@@ -25,4 +24,5 @@ How a translator query caught a UX problem that had slipped past writing, engine
 
 # Contact
 [LinkedIn](https://www.linkedin.com/in/sean-kinsell/)
+
 [Email](mailto:skinsell@gmail.com)
