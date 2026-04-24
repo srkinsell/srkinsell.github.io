@@ -66,3 +66,9 @@ Medallion architecture is only a framework. Real projects that apply it can stil
 **Multiple updates at once.** It's tempting to start organizing data into reports while you're still cleaning it up, but the result is inaccurate results that may include duplicates or invalid values. Determining the root cause of those breakdowns can be painful, especially because ownership of individual transforms may not be clear.
 
 Also, medallion architecture tells you *when* certain actions should be taken; it doesn't tell you what decisions they should be based on. Figuring out systems of record, persistence criteria, and what inputs are used for derivations requires judgment. Bad judgment will produce bad results and delays, but medallion architecture will help to figure out where things went wrong and what changes are likely to help.
+
+
+# Contact
+[LinkedIn](https://www.linkedin.com/in/sean-kinsell/)
+
+[Email](mailto:skinsell@gmail.com)
